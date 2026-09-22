@@ -1,6 +1,0 @@
-# NÃO coloque chaves reais neste repositório se ele puder ser compartilhado ou tornado público.
-# Prefira usar variáveis de ambiente ou um gerenciador de segredos.
-#
-# Exemplos:
-# API_KEY=
-# SECRET_KEY=
